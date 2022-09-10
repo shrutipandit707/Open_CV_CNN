@@ -1,7 +1,9 @@
 # Getting Started with OpenCV and it's usage in images
 
 > This notebook has two main objectives:
+
     1. Getting familiar with OpenCV - its installation and some of its basic usage.
+    
     2. Looking at the data we will use - this will give you a lot of context for my future projects.
 
 ## Table of Contents
